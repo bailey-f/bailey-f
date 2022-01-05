@@ -6,7 +6,7 @@
 - 💬 Ask me about networking programming.
 - 📫 How to reach me: baileyeditor@gmail.com.
 - 😄 Pronouns: He/Him.
-- ⚡ Fun fact: One of my favourite albums is "Making Movies" by Dire Straits.
+- ⚡ Fun fact: One of my favourite albums is In Rainbows from Radiohead!
 
 <!--
 **bailey-f/bailey-f** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
