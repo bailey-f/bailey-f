@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on a personal website to host both private and public projects I'm working on!
-- 🌱 I’m currently learning full stack development via VUE.js and Django.
+- 🌱 I’m currently learning malware development!
 - 👯 I’m looking to collaborate on anything that I'm interested in, let me know and I might work with you :).
 - 💬 Ask me about networking programming.
 - 📫 How to reach me: baileyeditor@gmail.com.
